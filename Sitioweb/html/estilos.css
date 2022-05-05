@@ -1,0 +1,17 @@
+/*punto ONCE*/
+p{
+    
+    font-style: italic;
+}
+/*punto ONCE*/
+/*punto doce*/
+a{
+    color: black;
+}
+a:hover{
+    color:red;
+}
+a:focus{
+    color: green;
+}
+/*punto doce*/
